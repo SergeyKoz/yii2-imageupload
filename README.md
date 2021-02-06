@@ -14,7 +14,7 @@ php composer.phar require --prefer-dist sergeykoz/yii2-imageupload
 or add
 
 ```json
-"sergeykoz/yii2-imageupload": "0.3.0",
+"sergeykoz/yii2-imageupload": "0.3.1",
 ```
 
 to the `require` section of your composer.json.
